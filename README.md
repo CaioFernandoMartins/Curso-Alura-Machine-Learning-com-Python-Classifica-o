@@ -1,2 +1,2 @@
-# Curso-Alura-Machine-Learning-com-Python-Classifica-o
+# Curso Alura: Machine Learning com Python - Classificao
 
